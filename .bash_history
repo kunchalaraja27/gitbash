@@ -199,3 +199,6 @@ git init
 cd raja
 git init
 sudo su -
+ls
+git init
+ls
